@@ -29,6 +29,20 @@ This repo documents my learning journey, problem-solving approach, and progress 
 - `plates.py`
 - `twttr.py`
 
+### 🔴 Pset 3 – Exceptions
+- `fuel.py`
+- `grocery.py`
+- `outdated.py`
+- `taqueria.py`
+
+### 🟠 Pset 4 – Libraries
+- `adieu.py`
+- `bitcoin.py`
+- `emojize.py`
+- `figlet.py`
+- `game.py`
+- `professor.py`
+
 ---
 
 ## 📌 Notes
@@ -41,8 +55,10 @@ This repo documents my learning journey, problem-solving approach, and progress 
 ## 🚀 Progress
 ✅ Pset 0 completed  
 ✅ Pset 1 completed  
-✅ Pset 2 completed  
-⬜ Pset 3 and beyond coming soon
+✅ Pset 2 completed
+✅ Pset 3 completed
+✅ Pset 4 completed
+⬜ Pset 5 and beyond coming soon
 
 ---
 
