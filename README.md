@@ -43,6 +43,20 @@ This repo documents my learning journey, problem-solving approach, and progress 
 - `game.py`
 - `professor.py`
 
+### 🟣 Pset 5 – Unit Tests
+- `test_bank/`
+  - `bank.py`
+  - `test_bank.py`
+- `test_fuel/`
+  - `fuel.py`
+  - `test_fuel.py`
+- `test_plates/`
+  - `plates.py`
+  - `test_plates.py`
+- `test_twttr/`
+  - `twttr.py`
+  - `test_twttr.py`
+
 ---
 
 ## 📌 Notes
@@ -58,7 +72,8 @@ This repo documents my learning journey, problem-solving approach, and progress 
 ✅ Pset 2 completed
 ✅ Pset 3 completed
 ✅ Pset 4 completed
-⬜ Pset 5 and beyond coming soon
+✅ Pset 5 completed
+⬜ Pset 6 and beyond coming soon
 
 ---
 
