@@ -57,6 +57,45 @@ This repo documents my learning journey, problem-solving approach, and progress 
   - `twttr.py`
   - `test_twttr.py`
 
+### 🟤 Pset 6 – File I/O
+- `pizza/`
+  - `pizza.py`
+  - `regular.csv`
+  - `silician.csv`
+- `scourgify/`
+  - `scourgify.py`
+  - `before.csv`
+- `lines.py`
+- `shirt.py`
+
+### ⚪ Pset 7 – Regular Expressions
+- `numb3rs/`
+  - `numb3rs.py`
+  - `test_numb3rs.py`
+- `um/`
+  - `um.py`
+  - `test_um.py`
+- `working/`
+  - `working.py`
+  - `test_working.py`
+- `response.py`
+- `watch.py`
+
+### ⚫ Pset 8 – Object-Oriented Programming
+- `jar/`
+  - `jar.py`
+  - `test_jar.py`
+- `seasons/`
+  - `seasons.py`
+  - `test_seasons.py`
+- `shirtificate/`
+  - `shirtificate.py`
+  - `shirtificate.png`
+
+### 🤍 Final Project - (Title will add soon)
+Coming soon...
+
+
 ---
 
 ## 📌 Notes
@@ -73,7 +112,10 @@ This repo documents my learning journey, problem-solving approach, and progress 
 ✅ Pset 3 completed
 ✅ Pset 4 completed
 ✅ Pset 5 completed
-⬜ Pset 6 and beyond coming soon
+✅ Pset 6 completed
+✅ Pset 7 completed
+✅ Pset 8 completed
+⬜ Final Project coming soon
 
 ---
 
